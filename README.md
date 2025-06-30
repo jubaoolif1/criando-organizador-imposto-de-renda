@@ -1,1 +1,3 @@
-# criando-organizador-imposto-de-renda
+# Criando organizador imposto de renda
+
+Este projeto é um declarador de imposto de renda.
